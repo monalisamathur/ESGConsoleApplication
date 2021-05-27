@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\ESG\ESG\bin\Debug\netcoreapp3.1\ESG.exe
+C:\Users\Admin\source\repos\ESG\ESG\bin\Debug\netcoreapp3.1\ESG.deps.json
+C:\Users\Admin\source\repos\ESG\ESG\bin\Debug\netcoreapp3.1\ESG.runtimeconfig.json
+C:\Users\Admin\source\repos\ESG\ESG\bin\Debug\netcoreapp3.1\ESG.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ESG\ESG\bin\Debug\netcoreapp3.1\ESG.dll
+C:\Users\Admin\source\repos\ESG\ESG\bin\Debug\netcoreapp3.1\ESG.pdb
+C:\Users\Admin\source\repos\ESG\ESG\obj\Debug\netcoreapp3.1\ESG.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ESG\ESG\obj\Debug\netcoreapp3.1\ESG.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ESG\ESG\obj\Debug\netcoreapp3.1\ESG.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ESG\ESG\obj\Debug\netcoreapp3.1\ESG.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ESG\ESG\obj\Debug\netcoreapp3.1\ESG.dll
+C:\Users\Admin\source\repos\ESG\ESG\obj\Debug\netcoreapp3.1\ESG.pdb
+C:\Users\Admin\source\repos\ESG\ESG\obj\Debug\netcoreapp3.1\ESG.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ESG\ESG\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\ESG\ESG\obj\Debug\netcoreapp3.1\ESG.csproj.CopyComplete

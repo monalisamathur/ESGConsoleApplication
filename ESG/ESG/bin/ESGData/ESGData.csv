@@ -1,0 +1,6 @@
+﻿CustomerRef,CustomerName,AddressLine1,AddressLine2,Town,County,Country,Postcode
+1234,Pfizer,Uk1,uk2,Oxford,Oxfordshire,UK,OX4 3BU
+1224,Astrazeneca,Uk2,uk3,Oxford,Oxfordshire,UK,OX4 3BX
+1654,Covaxin,Uk3,uk3,Oxford,Oxfordshire,UK,OX4 3DF
+1674,Covaxin,Uk3,uk3,Oxford,Oxfordshire,UK,OX4 3DF
+1784,J&J,Uk3,uk3,Oxford,Oxfordshire,UK,OX4 3BE
